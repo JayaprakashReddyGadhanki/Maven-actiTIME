@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Element is present]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Element is present]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Element is present]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Element is present]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Element is present]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+    <line>
+      <![CDATA[Title is same]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33924" started-at="2017-03-24T14:56:48Z" finished-at="2017-03-24T14:57:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33924" started-at="2017-03-24T14:56:48Z" finished-at="2017-03-24T14:57:22Z">
+      <class name="script.ValidLoginLogout">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:script.ValidLoginLogout@28feb3fa]" name="openApplication" is-config="true" duration-ms="2505" started-at="2017-03-24T20:27:15Z" finished-at="2017-03-24T20:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testValidLoginLogout()[pri:0, instance:script.ValidLoginLogout@28feb3fa]" name="testValidLoginLogout" duration-ms="3913" started-at="2017-03-24T20:27:17Z" finished-at="2017-03-24T20:27:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testValidLoginLogout -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:script.ValidLoginLogout@28feb3fa]" name="closeApplication" is-config="true" duration-ms="682" started-at="2017-03-24T20:27:21Z" finished-at="2017-03-24T20:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- script.ValidLoginLogout -->
+      <class name="script.InvalidLogin">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:script.InvalidLogin@68be2bc2]" name="openApplication" is-config="true" duration-ms="2379" started-at="2017-03-24T20:27:01Z" finished-at="2017-03-24T20:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:script.InvalidLogin@68be2bc2]" name="invalidLogin" duration-ms="11386" started-at="2017-03-24T20:27:03Z" finished-at="2017-03-24T20:27:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is present]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+            <line>
+              <![CDATA[Element is present]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+            <line>
+              <![CDATA[Element is present]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+            <line>
+              <![CDATA[Element is present]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+            <line>
+              <![CDATA[Element is present]]>
+            </line>
+            <line>
+              <![CDATA[Title is same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:script.InvalidLogin@68be2bc2]" name="closeApplication" is-config="true" duration-ms="695" started-at="2017-03-24T20:27:14Z" finished-at="2017-03-24T20:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- script.InvalidLogin -->
+      <class name="script.VerifyProductVersion">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:script.VerifyProductVersion@20e2cbe0]" name="openApplication" is-config="true" duration-ms="2366" started-at="2017-03-24T20:26:48Z" finished-at="2017-03-24T20:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testVerifyProductVersion()[pri:0, instance:script.VerifyProductVersion@20e2cbe0]" name="testVerifyProductVersion" duration-ms="9185" started-at="2017-03-24T20:26:51Z" finished-at="2017-03-24T20:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyProductVersion -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:script.VerifyProductVersion@20e2cbe0]" name="closeApplication" is-config="true" duration-ms="791" started-at="2017-03-24T20:27:00Z" finished-at="2017-03-24T20:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- script.VerifyProductVersion -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
