@@ -1,9 +1,5 @@
 package script;
 
-import java.io.FileInputStream;
-
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.testng.annotations.Test;
 
 import generic.BaseTest;
